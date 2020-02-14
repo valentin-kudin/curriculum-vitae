@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime:400,700,700i&display=swap');
+
+.bold {
+  font-weight: bold;
+}
+
+.hrLine {
+  height: 2px;
+  width: 1024px;
+  background-color: #5BB245;
+  margin: 3px 0 15px;
+}
+
+.bottom-band {
+  height: 40px;
+}
+
+.section-division {
+  height: 25px;
+}
+
+.content {
+  max-width: 1024px;
+  min-width: 600px;
+  margin: 0 auto;
+  font-family: 'Courier Prime', monospace;
+  background-color: #FDEECD;
+}
+
+.header {
+  margin: 0 40px;
+  font-weight: bold;
+}
+
+.font-header {
+  font-weight: normal;
+}
+
+.header-section h1 {
+  font-size: 2em;
+}
+
+.header-section {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom:40px;
+  padding-top: 40px;
+}
+
+.row-flex-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.row-section {
+  margin: 0 30px;
+}
+
+.row-section li {
+  margin-bottom: 5px;
+  margin-left: 30px;
+}
+
+.row-section p {
+  margin: 7px 0;
+  line-height: 1.2rem;
+}
+
+.plain-text p, h3 {
+  margin: 2px 0;
+  line-height: 1.1rem;
+}
+
+.plain-text {
+  margin-bottom: 15px;
+}
+
+.personal-data-content p {
+  margin: 5px 30px;
+}
+
+.avatar {
+  margin: 0 30px 0 auto;
+}
+
+.avatar img {
+  border: 2px solid #6A3826;
+}
+
+.row-section ul {
+  margin: 3px 10px 3px 10px;
+  list-style-type: circle;
+}
